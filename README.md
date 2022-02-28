@@ -2,6 +2,6 @@
 - 👀 I’m interested in ...
 	- Web development & UI/UX design
 - 🌱 I’m currently learning
-	- Constantly, absorbing everything I can between best practices & new programming languages
+	- Constantly; I absorb everything I can between new programming languages & best practices
 - 💞️ I’m looking to collaborate on ...
 	- Nothing for now
